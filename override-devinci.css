@@ -1,6 +1,6 @@
+/* Remove all useless feature */
 .override{
     background-color: #fff;
-    
 }
 
 .override .alert{
@@ -17,4 +17,59 @@ html body.override .custom-37{
 
 .override .tools {
     display: none;
+}
+
+/* Setup font and color */
+:root{
+    /* font-familly */
+    
+
+    /* Color & Background */
+    --mainBg: #fff;
+    --mainColorText: #000;
+}
+
+/* First social-box style */
+
+html body.override .custom-2{
+    border: none;
+}
+
+html body.override .custom-36{
+    border: none;
+}
+
+html body.override .custom-38{
+    border: none;
+}
+
+html body.override .custom-39{
+    border: none;
+}
+
+
+html body.override .custom-2 header{
+    background-color: var(--mainBg);
+    color: var(--mainColorText) !important;
+    border-color: #000;
+}
+
+html body.override .custom-36 header{
+    background-color: var(--mainBg);
+    color: var(--mainColorText) !important;
+    border-color: #ff0000;
+    font-weight: bold italic;
+
+}
+
+html body.override .custom-38 header{
+    background-color: var(--mainBg);
+    color: var(--mainColorText) !important;
+    border-color: #ff0000;
+}
+
+html body.override .custom-39 header{
+    background-color: var(--mainBg);
+    color: var(--mainColorText) !important;
+    border-color: #ff0000;
 }
