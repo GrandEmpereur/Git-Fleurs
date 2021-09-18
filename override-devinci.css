@@ -1,0 +1,20 @@
+.override{
+    background-color: #fff;
+    
+}
+
+.override .alert{
+    display: none;
+}
+
+.override .social-orange {
+    display: none;
+}
+
+html body.override .custom-37{
+    display: none ;
+}
+
+.override .tools {
+    display: none;
+}
