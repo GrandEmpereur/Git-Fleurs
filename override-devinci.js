@@ -7,3 +7,10 @@ document.querySelectorAll(".social-box").forEach(function(element){
     element.classList.add(maClass)
     i++
 })
+
+var i = 1
+document.querySelectorAll(".row-fluid").forEach(function(element){
+    let maClass = 'custom_'+i
+    element.classList.add(maClass)
+    i++
+})
