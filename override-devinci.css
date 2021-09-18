@@ -31,11 +31,11 @@ html body.override .custom-37{
 .override .custom_9 .span2{
     position: relative;
     top: 0;
-    left: -370px;
+    left: -600px;
 }
 .override .custom_9 .span4{
     position: relative;
-    top: 150px;
+    top: 200px;
     left: 15px;
 }
 
@@ -44,6 +44,69 @@ html body.override .custom-37{
     top: 0;
     left: 50px;
 }
+
+.override .custom_16{
+    position: relative;
+    top:0;
+    right: -250px;
+}
+/* Responsive Social-box Profile */
+
+@media screen and (max-width:1480px){
+    .override .custom_9 .span2{
+        left: -480px;
+    }
+
+    .override .custom_9 .span4{
+        top: 160px;
+    }
+    
+}
+
+@media screen and (max-width:1250px){
+    .override .custom_9 .span2{
+        left: -390px;
+    }
+
+    .override .custom_9 .span4{
+        top: 160px;
+    }
+    
+}
+
+@media screen and (max-width:720px){
+    .override .custom_9 .span2{
+        top: -510px;
+        left: 0;
+    }
+
+    .override .custom_9 .span2 .custom_15 img{
+        position: relative;
+        left: 250px;
+    }
+
+    .override .custom_9 .span4{
+        top: 270px;
+        left: 0;
+    }
+
+    .override .custom_9 .span6{
+        top: 260px;
+        left: 0;
+    }
+
+    .override .custom_16{
+        right: 0;
+        top: 50px;
+    }
+
+    .override .custom-5{
+        display: none;
+    }
+    
+    
+}
+
 
 /* Social-box Mes groupe  */
 html body.override .custom-2{
