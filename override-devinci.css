@@ -11,15 +11,20 @@ html body.override .custom-37{
     display: none ;
 }
 
-.override .tools {
-    display: none;
+html body.override .navbar-inner {
+    background-color: var(--mainColorText) !important;
+    border-color: #ff0000 !important;
+    border-bottom-color: #ff0000 !important;
 }
+
+html body.override .navbar-inner .divider-vertical{
+    border-left-color: #fff !important;
+    border-right-color: #fff !important;
+}
+
 
 /* Setup font and color */
 :root{
-    /* font-familly */
-    
-
     /* Color & Background */
     --mainBg: #fff;
     --mainColorText: #000;
@@ -50,6 +55,60 @@ html body.override .custom-37{
     top:0;
     right: -250px;
 }
+
+/* Social-box  */
+html body.override .custom-2{
+    border: none;
+}
+
+html body.override .custom-36{
+    border: none;
+}
+
+html body.override .custom-38{
+    border: none;
+}
+
+html body.override .custom-39{
+    border: none;
+}
+
+
+html body.override .custom-2 header{
+    background-color: var(--mainBg);
+    color: var(--mainColorText) !important;
+    border-color: #000;
+}
+
+html body.override .custom-36 header{
+    background-color: var(--mainBg);
+    color: var(--mainColorText) !important;
+    border-color: #ff0000;
+    font-weight: bold italic;
+
+}
+
+html body.override .custom-38 header{
+    background-color: var(--mainBg);
+    color: var(--mainColorText) !important;
+    border-color: #ff0000;
+}
+
+html body.override .custom-39 header{
+    background-color: var(--mainBg);
+    color: var(--mainColorText) !important;
+    border-color: #ff0000;
+}
+
+.override .accordion-group{
+    margin-top: 5px;
+    background-color: #e5e5e5;
+}
+
+.override .accordion-heading{
+    background-color: #e5e5e5;
+} 
+
 /* Responsive Social-box Profile */
 
 @media screen and (max-width: 1550px){
@@ -157,61 +216,5 @@ html body.override .custom-37{
 
 
 }
-
-
-
-/* Social-box Mes groupe  */
-html body.override .custom-2{
-    border: none;
-}
-
-html body.override .custom-36{
-    border: none;
-}
-
-html body.override .custom-38{
-    border: none;
-}
-
-html body.override .custom-39{
-    border: none;
-}
-
-
-html body.override .custom-2 header{
-    background-color: var(--mainBg);
-    color: var(--mainColorText) !important;
-    border-color: #000;
-}
-
-html body.override .custom-36 header{
-    background-color: var(--mainBg);
-    color: var(--mainColorText) !important;
-    border-color: #ff0000;
-    font-weight: bold italic;
-
-}
-
-html body.override .custom-38 header{
-    background-color: var(--mainBg);
-    color: var(--mainColorText) !important;
-    border-color: #ff0000;
-}
-
-html body.override .custom-39 header{
-    background-color: var(--mainBg);
-    color: var(--mainColorText) !important;
-    border-color: #ff0000;
-}
-
-.override .accordion-group{
-    margin-top: 5px;
-    background-color: #e5e5e5;
-}
-
-.override .accordion-heading{
-    background-color: #e5e5e5;
-} 
-
 
 
