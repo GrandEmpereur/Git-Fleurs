@@ -1,7 +1,4 @@
-.override .alert, .override .social-orange {
-    display: none;
-}
-
+/* Tools nav */
 .override .tools .btn {
     background-color: #dfdfdf;
     background-image: none;
