@@ -17,11 +17,11 @@ Si vous êtes un étudiant du Pôle Léonard de Vinci, vous pouvez suivre les é
 ## 4- Puis pour finir charger le projet en tant qu'extension.
 #
 ## Changement
-Les principaux changements se verront sur le profil, les menus et la barre d'outils de votre portail étudiant.
+Les principaux changements se verront sur le profil, les menus et la barre d'outils de votre portail étudiant. Nous avons aussi rajouté le responsive adéquat  aux changements d'interface évoqués plus tôt.
 <br>
-Pour cette première version, nous avons estimé que ce sont les onglets les plus visités.
+Pour cette première version, nous avons estimé que ce sont les onglets les plus visités , et donc les plus pertinents pour recevoir une update graphique.
 <br>
-Pour une potentielle V2, nous ajouterons d'autre fonctionnalité et d'autres refontes UI | UX
+Pour une potentielle V2, nous ajouterons d'autre fonctionnalité et d'autres refontes UI | UX ainsi que d'autres changements à venir sur les autres pages du site.
 
 #
 ## Technos 
@@ -34,8 +34,8 @@ Sur ce projet nous avions dû travailler sur le CSS et le Javascript du portail 
 ## Team
 Les personnes en charge de ce projet sont :
 
-Auriane Le Perdriel | vous retrouverez son profil en cliken sur le lien suivent --> [Github](https://github.com/aleperdriel)
+Auriane Le Perdriel | vous retrouverez son profil en cliquant sur le lien suivant --> [Github](https://github.com/aleperdriel)
 
-Antoine Bendafi-Schulmann | vous retrouverez son profil en cliken sur le lien suivent --> [Github](https://github.com/AntoineBendafiSchulmann)
+Antoine Bendafi-Schulmann | vous retrouverez son profil en cliquant sur le lien suivant --> [Github](https://github.com/AntoineBendafiSchulmann)
 
-Patrick Bartosik | vous retrouverez son profil en cliken sur le lien suivent -->[Github](https://github.com/GrandEmpereur)
+Patrick Bartosik | vous retrouverez son profil en cliquant sur le lien suivant -->[Github](https://github.com/GrandEmpereur)
