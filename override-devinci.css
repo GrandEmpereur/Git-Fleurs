@@ -113,6 +113,16 @@ html body.override .custom-39 header{
     background-color: black !important;
     color: white !important;
 }
+.scrollable {
+    background-color: black !important;
+}
+
+.accordion-heading {
+    background-color: black !important;
+    
+}
+
+
 
 /* Responsive Social-box Profile */
 
