@@ -8,9 +8,14 @@
     border: none;
 }
 
+.override .tools .btn:hover {
+    background-color: #b6b6b6;
+    color: #57688d;
+}
 /* Remove all useless feature */
 .override{
     background-color: #fff;
+    
 }
 
 .override .alert{
@@ -118,6 +123,22 @@ html body.override .custom-39 header{
 .override .accordion-heading{
     background-color: #e5e5e5;
 } 
+
+.user{
+    background-color: black !important;
+    color: white !important;
+}
+.scrollable {
+    background-color: black !important;
+}
+
+.accordion-heading {
+    background-color: black !important;
+    color: white !important;
+    
+}
+
+
 
 /* Responsive Social-box Profile */
 

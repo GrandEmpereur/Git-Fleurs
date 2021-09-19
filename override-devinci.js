@@ -16,3 +16,5 @@ document.querySelectorAll(".row-fluid").forEach(function(element){
     element.classList.add(maClass)
     i++
 })
+
+
