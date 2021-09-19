@@ -1,4 +1,5 @@
 document.getElementsByTagName("body")[0].classList.add("override")
+document.getElementsByTagName("footer")[0].classList.add("footer-custom")
 
 
 var i = 1
