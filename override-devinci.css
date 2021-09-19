@@ -9,7 +9,9 @@
 
 html body.override .custom-37{
     display: none ;
+    
 }
+
 
 html body.override .navbar-inner {
     background-color: var(--mainColorText) !important;
