@@ -1,0 +1,220 @@
+/* Remove all useless feature */
+.override{
+    background-color: #fff;
+}
+
+.override .alert{
+    display: none;
+}
+
+html body.override .custom-37{
+    display: none ;
+}
+
+html body.override .navbar-inner {
+    background-color: var(--mainColorText) !important;
+    border-color: #ff0000 !important;
+    border-bottom-color: #ff0000 !important;
+}
+
+html body.override .navbar-inner .divider-vertical{
+    border-left-color: #fff !important;
+    border-right-color: #fff !important;
+}
+
+
+/* Setup font and color */
+:root{
+    /* Color & Background */
+    --mainBg: #fff;
+    --mainColorText: #000;
+}
+
+/* First social-box style */
+
+/* Social-box Profile */
+.override .custom_9 .span2{
+    position: relative;
+    top: 0;
+    left: -600px;
+}
+.override .custom_9 .span4{
+    position: relative;
+    top: 200px;
+    left: 15px;
+}
+
+.override .custom_9 .span6{
+    position: relative;
+    top: 0;
+    left: 50px;
+}
+
+.override .custom_16{
+    position: relative;
+    top:0;
+    right: -250px;
+}
+
+/* Social-box  */
+html body.override .custom-2{
+    border: none;
+}
+
+html body.override .custom-36{
+    border: none;
+}
+
+html body.override .custom-38{
+    border: none;
+}
+
+html body.override .custom-39{
+    border: none;
+}
+
+
+html body.override .custom-2 header{
+    background-color: var(--mainBg);
+    color: var(--mainColorText) !important;
+    border-color: #000;
+}
+
+html body.override .custom-36 header{
+    background-color: var(--mainBg);
+    color: var(--mainColorText) !important;
+    border-color: #ff0000;
+    font-weight: bold italic;
+
+}
+
+html body.override .custom-38 header{
+    background-color: var(--mainBg);
+    color: var(--mainColorText) !important;
+    border-color: #ff0000;
+}
+
+html body.override .custom-39 header{
+    background-color: var(--mainBg);
+    color: var(--mainColorText) !important;
+    border-color: #ff0000;
+}
+
+.override .accordion-group{
+    margin-top: 5px;
+    background-color: #e5e5e5;
+}
+
+.override .accordion-heading{
+    background-color: #e5e5e5;
+} 
+
+/* Responsive Social-box Profile */
+
+@media screen and (max-width: 1550px){
+    .override .custom_9 .span2{
+        left: -490px;
+    }
+
+    .override .custom_9 .span4{
+        top: 170px;
+    }
+
+    .override .custom_16{
+        width: 650px;
+        right: -90px;
+    }
+    
+}
+
+
+
+@media screen and (max-width:1480px){
+    .override .custom_9 .span2{
+        left: -485px;
+    }
+
+    .override .custom_9 .span4{
+        top: 160px;
+    }
+    
+}
+
+@media screen and (max-width: 1024px){
+    .override .custom_9 .span2{
+        left: -300px;
+    }
+
+    .override .custom_9 .span4{
+        top: 130px;
+    }
+
+    .override .custom_16{
+        width: 650px;
+        right: -20px;
+    }
+    
+}
+
+@media screen and (max-width:768px){
+    .override .custom_9 .span2{
+        left: -290px;
+    }
+    
+    .override .custom_9 .span4{
+        top: 120px;
+        left: 0;
+    }
+
+    .override .custom_9 .span6{
+        left: 15px;
+    }
+
+    .override .custom-3{
+        width: 115px;
+
+    }
+
+    .override .custom-4{
+        width: 205px;
+        
+    }
+
+    .override .custom_16{
+        width: 650px;
+        right: -20px;
+    }
+
+    .override .footer-custom{
+        margin-left: 0 !important;
+    }
+}
+
+@media screen and (max-width:375px){
+    .override .custom_9 .span2{
+        left: 0;
+        top: -800px;
+    }
+    .override .custom_9 .span2 .custom_15 img{
+        position: relative;
+        right: -80px;
+    }
+
+    .override .custom_9 .span4{
+        top: 250px;
+        left: 80px;
+    }
+
+    .override .custom_9 .span6{
+        top: 250px;
+        left: 35px;
+    }
+
+    .override .custom-5{
+        display: none;
+    }
+
+
+}
+
+
