@@ -8,9 +8,14 @@
     border: none;
 }
 
+.override .tools .btn:hover {
+    background-color: #b6b6b6;
+    color: #57688d;
+}
 /* Remove all useless feature */
 .override{
     background-color: #fff;
+    
 }
 
 .override .alert{
