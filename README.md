@@ -2,17 +2,13 @@
 ## About
 Ce projet consiste en une extension qui permet de modifier l'apparence de notre portail étudiant.
 ## Changement
-Nous avons changé la nav bar, mais aussi le profil et en dernier nous avons fait des modifications sur l'edt
+Nous avons changé le style de la barre d'outils, du menu vertical et de l'emploi du temps.
 
 ## Techno 
 Les technos utilisées sont : <br>
-<style>
-    img {
-        width: 100px;
-    }
-</style>
-<img src="https://www.icone-png.com/png/52/52323.png">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
+
+<img src="https://www.icone-png.com/png/52/52323.png" style="width: 100px;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" style="width: 100px;">
 
 ## Team
 Les personnes en charge de ce projet sont :
