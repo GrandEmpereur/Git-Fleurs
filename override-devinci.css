@@ -12,10 +12,10 @@
     background-color: #b6b6b6;
     color: #57688d;
 }
+
 /* Remove all useless feature */
 .override{
     background-color: #fff;
-    
 }
 
 .override .alert{
@@ -29,7 +29,7 @@ html body.override .custom-37{
 
 
 html body.override .navbar-inner {
-    background-color: var(--mainColorText) !important;
+    background-color: rgb(32, 32, 32) !important;
     border-color: #ff0000 !important;
     border-bottom-color: #ff0000 !important;
 }
@@ -126,18 +126,19 @@ html body.override .custom-39 header{
     background-color: #e5e5e5;
 } 
 
-.user{
-    background-color: black !important;
-    color: white !important;
-}
-.scrollable {
-    background-color: black !important;
+.override .user{
+    background-color: rgb(22, 22, 22) !important;
+    color: white;
 }
 
-.accordion-heading {
-    background-color: black !important;
-    color: white !important;
-    
+.override .scrollable {
+    background-color: rgb(22, 22, 22) !important;
+}
+
+
+.override .accordion-heading {
+    background-color: rgb(22, 22, 22) !important;
+    color: white;
 }
 
 
